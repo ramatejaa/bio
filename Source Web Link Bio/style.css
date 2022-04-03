@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(to right, #000000, rgb(61, 61, 61), rgb(0, 0, 0));
+    font-family: 'Roboto', sans-serif;
+}
+.kotak{
+    width: 400px;
+    height: 50px;
+    border: solid 3px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 10px;
+    display: block;
+    font-size: 30px;
+    text-decoration:rgb(255, 255, 255) ;
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+}
+
+
+.kotak:hover{
+    background-color: #4e4e4e;
+}
+
+.header{
+    text-align: center;
+    font-size: 35px;
+    font-style: oblique();
+    color: white;
+}
+
+.header img{
+    width: 150px;
+    border-radius: 90%;
+    margin-top: 10px;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+}
