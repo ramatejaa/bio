@@ -1,9 +1,8 @@
 body{
-    background: linear-gradient(to right, #000000, rgb(61, 61, 61), rgb(0, 0, 0));
+    background: linear-gradient(to right, #5bc04b, rgb(161, 161, 63), rgb(157, 118, 51));
     font-family: 'Roboto', sans-serif;
 }
 .kotak{
-    width: 400px;
     height: 50px;
     border: solid 3px;
     margin-left: auto;
@@ -12,14 +11,14 @@ body{
     padding-top: 10px;
     display: block;
     font-size: 30px;
-    text-decoration:rgb(255, 255, 255) ;
+    text-decoration:rgb(67, 26, 26) ;
     color: rgb(255, 255, 255);
     margin-bottom: 10px;
 }
 
 
 .kotak:hover{
-    background-color: #4e4e4e;
+    background-color: #cac227;
 }
 
 .header{
